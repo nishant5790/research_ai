@@ -18,7 +18,6 @@
    conda activate agent_env
    ```
 
-   ```
 
 3. **Install Requirements:**
    ```bash
